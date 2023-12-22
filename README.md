@@ -1,0 +1,2 @@
+# SQLi-Scanner-Detect-SQL-Injection-Vulnerabilities-in-Web-Forms
+This Python script scans websites for potential SQL injection vulnerabilities in their web forms. It's designed to be simple, efficient, and informative, making it a handy tool for security testing and awareness.  Key Features:  Detects common SQL injection vulnerabilities Provides detailed information about vulnerable forms and payloads ️.
